@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-APP LINK: https://instagram-reels-clone-9ab02.web.app/
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
